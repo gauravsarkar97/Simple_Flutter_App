@@ -8,10 +8,12 @@ It is a simple Love Calculator that we so commonly find across the internet. It 
 4. Create a folder in the project folder named **images**. If we want to include any pictures in our App, we can keep those pictures in this folder and include the path as **'images/<file_name>.<extension>'**. <br>
   Copy and paste the image **heart\.jpg** from the project repositories and paste to the newly created images folder.
 5. Navigate to the **pubspec.yaml** file in your project directory. We need to add the assets and dependencies here. Under the heading **assets:** add **- images/**. <br>
-  For adding dependencies, look for the heading **dependencies:** and add the dependency **toast: ^0.1.5**. Refer to my pubspec.yaml file for further help. As soon as you edit this .yaml file and save it, there will be an option called **"Packages Get"**. Click on it and wait for the packages to be installed.
+  For adding dependencies, look for the heading **dependencies:** and add the dependency **toast: ^0.1.5**. Refer to my pubspec.yaml file for further help. As soon as you edit this .yaml file and save it, there will be an option called **"Packages Get"**. Click on it and wait for the packages to be installed.<br><br>![ss](screenshot/ss1.png)<br>
 6. Connect any android/iOS device(works only on Mac) or use any emulator offered by Android Studio to run the app. <br>
   
 
 ### Important Notes:
-Validation has also been added. If the user leaves any or both of the TextFields empty, the app will show a toast message and prompt the user to fill the names.<br>
-To add your own icon, follow the instructions in this **[video](https://www.youtube.com/watch?v=hpQenyqxTmw&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm&index=17)**.
+The home page of the App: <br><br> ![home](screenshot/homepage.jpeg)<br><br>
+Validation has also been added. If the user leaves any or both of the TextFields empty, the app will show a toast message and prompt the user to fill the names.<br><br> ![validation](screenshot/validation.jpeg) <br><br>
+To add your own icon, follow the instructions in this [video](https://www.youtube.com/watch?v=hpQenyqxTmw&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm&index=17)<br>I added my own icon:<br><br>![icon](screenshot/icon.jpeg) <br><br>
+The working App: <br><br>![working](screenshot/working.jpeg)<br><br>
