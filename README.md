@@ -11,4 +11,7 @@ It is a simple Love Calculator that we so commonly find across the internet. It 
   For adding dependencies, look for the heading **dependencies:** and add the dependency **toast: ^0.1.5**. Refer to my pubspec.yaml file for further help. As soon as you edit this .yaml file and save it, there will be an option called **"Packages Get"**. Click on it and wait for the packages to be installed.
 6. Connect any android/iOS device(works only on Mac) or use any emulator offered by Android Studio to run the app. <br>
   
-  Validation has also been added. If the user leaves any or both of the TextFields empty, the app will show a toast message and prompt the user to fill the names.
+
+### Important Notes:
+Validation has also been added. If the user leaves any or both of the TextFields empty, the app will show a toast message and prompt the user to fill the names.<br>
+To add your own icon, follow the instructions in this **[video](https://www.youtube.com/watch?v=hpQenyqxTmw&list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm&index=17)**.
