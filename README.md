@@ -1,4 +1,4 @@
-# Simple_Love_Calculator
+# Simple_Flutter_App
 It is a simple Love Calculator that we so commonly find across the internet. It basically takes two names and returns a a random percentage between two ranges that are determined by a simple algorithm. One can also use any algorithm of his/her choice. In terms of functionality, it doesn't do much. It is just a simple project to check the use of **[StatelessWidget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)** and **[StatefulWidget](https://api.flutter.dev/flutter/widgets/StatefulWidget-class.html)**. Some of the widgets used in this project are: MaterialApp, Scaffold, AppBar, Image, TextField, IconButton, Ink. <br>
 
 ## Steps to run this project:
